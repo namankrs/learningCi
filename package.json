@@ -1,0 +1,22 @@
+{
+  "name": "learningci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "foo.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namankrs/learningCi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/namankrs/learningCi/issues"
+  },
+  "homepage": "https://github.com/namankrs/learningCi#readme",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  }
+}
